@@ -3,59 +3,69 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"Construction company website",
+        description:"It is an in intoductory website of six pages and smooth scrolling animations.",
+        tags:["HTML5","CSS3","JavaScript"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:" https://www.bayabat.com/",
+        github:"https://github.com/amine-baya"
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"E-commerce website",
+        description:"Client can see products,make an order,buy it and follow the process.admin dashboard controll all ",
+        tags:["React","Redux","NodeJs","Express","MongoDB"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"http://www.electromh.net/",
+        github:"https://github.com/amine-baya/electroMH"
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"sewing factory website",
+        description:"It is an in intoductory website of six pages and smooth scrolling animations.",
+        tags:["MongoDb","Express","React","Redux","NodeJs"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"http://soticogroup.herokuapp.com/",
+        github:"https://github.com/amine-baya/soticoGroup"
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
+        name:"Attractive website",
+        description:"Nice design with a cool moving system,converted from Figma file",
+        tags:["react","react-router"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        demo:"http://soticogroup.herokuapp.com/",
+        github:"https://github.com/amine-baya/security_figma"
        
     },{
         id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
+        name:"Simple website with email ",
+        description:"Convert Figma file to code using react and nodeMailer.",
+        tags:["react","nodeMailer"],
         
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
+        demo:"https://mystifying-nightingale-c4458d.netlify.app/",
+        github:"https://github.com/amine-baya/lysto"
         
     },
     {
         id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-        tags:["react","react-router","css"],
+        name:"part of company website dashboard",
+        description:"convert from Figma file to react code",
+        tags:["react","react-router","css3"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
+        demo:"https://lucid-bardeen-20678c.netlify.app/",
+        github:"https://github.com/amine-baya/tallrock"
+        
+    },
+    {
+        id:7,
+        name:"Memory Activity for children",
+        description:"Activity integrated in real website to test child memory",
+        tags:["react","javascript","css3","drag & drop"],
+        
+        demo:"https://eloquent-montalcini-1052b0.netlify.app/",
+        github:"https://github.com/amine-baya/activity"
         
     },
     

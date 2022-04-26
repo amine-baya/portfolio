@@ -84,23 +84,17 @@ const Item = {
 }
 
 const BlogComponent = (props) => {
-    const {name, tags, date, imgSrc, link} = props.blog;
+    const {name, date, imgSrc} = props.blog;
     return (
         <Container
         variants={Item}
         
         >
-            <Box target="_blank" to={{pathname: link}}
+            <Box target="_blank" to={{pathname: "/blog"}}
         >
             <Image img={imgSrc} />
             <Title>{name}</Title>
-            <HashTags>
-                {
-                    tags.map((t,id) => {
-                        return <Tag key={id}>#{t}</Tag>
-                    })
-                }
-            </HashTags>
+          
             <Date>
                 {date}
             </Date>
