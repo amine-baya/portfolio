@@ -8,7 +8,7 @@ export const Work = [
         tags:["HTML5","CSS3","JavaScript"],
         
         demo:" https://www.bayabat.com/",
-        github:"https://github.com/amine-baya"
+        github:"https://github.com/amine-baya/bayabat"
     },
     {
         id:2,
@@ -16,7 +16,7 @@ export const Work = [
         description:"Client can see products,make an order,buy it and follow the process.admin dashboard controll all ",
         tags:["React","Redux","NodeJs","Express","MongoDB"],
         
-        demo:"http://www.electromh.net/",
+        demo:"https://electromh-clone.herokuapp.com/",
         github:"https://github.com/amine-baya/electroMH"
         
     },
@@ -35,8 +35,8 @@ export const Work = [
         description:"Nice design with a cool moving system,converted from Figma file",
         tags:["react","react-router"],
         
-        demo:"http://soticogroup.herokuapp.com/",
-        github:"https://github.com/amine-baya/security_figma"
+        demo:"https://glittering-gecko-a61083.netlify.app/",
+        github:"https://github.com/amine-baya/italos"
        
     },{
         id:5,
