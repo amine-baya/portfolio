@@ -57,12 +57,7 @@ ${Box}:hover &{
     
 }
 `
-const HashTags = styled.div`
-padding: 0.5rem 0;
-`
-const Tag= styled.span`
-padding-right: 0.5rem;
-`
+
 const Date = styled.span`
 padding:0.5rem 0
 `
