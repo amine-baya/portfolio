@@ -6,22 +6,30 @@ export const Work = [
         name:"Construction company website",
         description:"It is an in intoductory website of six pages and smooth scrolling animations.",
         tags:["HTML5","CSS3","JavaScript"],
-        
         demo:" https://www.bayabat.com/",
         github:"https://github.com/amine-baya/bayabat"
     },
     {
         id:2,
-        name:"E-commerce website",
-        description:"Client can see products,make an order,buy it and follow the process.admin dashboard controll all ",
-        tags:["React","Redux","NodeJs","Express","MongoDB"],
-        
-        demo:"https://electromh-clone.herokuapp.com/",
-        github:"https://github.com/amine-baya/electroMH"
+        name:"Limousine car services",
+        description:"Client can check the company car servises, booking trips. a complete admin dashboard ",
+        tags:["NextJs","Redux","NodeJs","Express","MongoDB"],
+        demo:"https://www.truelimo.com/",
+        github:"https://github.com/amine-baya/true-limo-client"
         
     },
     {
         id:3,
+        name:"Attractive website",
+        description:"Nice design with a cool moving system,converted from Figma file",
+        tags:["react","react-router"],
+        
+        demo:"https://glittering-gecko-a61083.netlify.app/",
+        github:"https://github.com/amine-baya/italos"
+       
+    },
+    {
+        id:4,
         name:"sewing factory website",
         description:"It is an in intoductory website of six pages and smooth scrolling animations.",
         tags:["MongoDb","Express","React","Redux","NodeJs"],
@@ -30,15 +38,6 @@ export const Work = [
         github:"https://github.com/amine-baya/soticoGroup"
     },
     {
-        id:4,
-        name:"Attractive website",
-        description:"Nice design with a cool moving system,converted from Figma file",
-        tags:["react","react-router"],
-        
-        demo:"https://glittering-gecko-a61083.netlify.app/",
-        github:"https://github.com/amine-baya/italos"
-       
-    },{
         id:5,
         name:"Simple website with email ",
         description:"Convert Figma file to code using react and nodeMailer.",
